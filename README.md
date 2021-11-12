@@ -1,5 +1,5 @@
 # P-sync
-
+jjnjj
 ## Vision
 ### P-sync: Disillusioned with a chance of compassion, isolated with a chance of immunity: Forecasting Order in Chaotic Worlds
 - Complex systems are useful for modeling much of the dynamic world, balancing chaos and synchrony.
